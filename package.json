@@ -1,0 +1,26 @@
+{
+  "name": "airport_management_system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Avi-Fisher/airport_management_system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Avi-Fisher/airport_management_system/issues"
+  },
+  "homepage": "https://github.com/Avi-Fisher/airport_management_system#readme",
+  "dependencies": {
+    "chance": "^1.1.13",
+    "nanoid": "^5.1.6",
+    "readline-sync": "^1.4.10"
+  }
+}
